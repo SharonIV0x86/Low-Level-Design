@@ -19,4 +19,4 @@ An evolving collection of low-level design notes: software design principles, OO
 | # | Section | Covers |
 |---|---|---|
 | 01 | [Software Design Principles](01-software-design-principles/README.md) | DRY, KISS, YAGNI |
-| 02 | [SOLID Principles](02-solid-principles/README.md) | SRP (OCP, LSP, ISP, DIP coming soon) |
+| 02 | [SOLID Principles](02-solid-principles/README.md) | SRP (OCP, LSP, ISP, DIP) |

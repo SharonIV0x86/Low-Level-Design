@@ -1,6 +1,6 @@
 # DRY: Don't Repeat Yourself
 
-**Core idea:** every piece of knowledge must have a single, unambiguous, authoritative representation within a system. In simple terms, avoid duplication of logic or code. Repeating code makes the system hard to maintain and error-prone — if a change is required, you might forget to update all occurrences.
+**Core idea:** every piece of knowledge must have a single, unambiguous, authoritative representation within a system. In simple terms, avoid duplication of logic or code. Repeating code makes the system hard to maintain and error-prone - if a change is required, you might forget to update all occurrences.
 
 ## Importance
 

@@ -28,11 +28,11 @@ Implementing all the above functionalities in a single `Compiler` class would vi
 
 Instead, we can break it down into smaller classes, each with a single responsibility:
 
-- `DriverCodeGenerator` — responsible for adding driver code.
-- `SyntaxChecker` — responsible for performing syntax checks.
-- `TestRunner` — responsible for running code with test cases.
-- `DatabaseManager` — responsible for storing output in the database.
-- `UserOutputHandler` — responsible for returning output to the user.
+- `DriverCodeGenerator` - responsible for adding driver code.
+- `SyntaxChecker` - responsible for performing syntax checks.
+- `TestRunner` - responsible for running code with test cases.
+- `DatabaseManager` - responsible for storing output in the database.
+- `UserOutputHandler` - responsible for returning output to the user.
 
 Another class named `Coordinator` can be added to coordinate between all these classes/modules.
 
